@@ -8,16 +8,19 @@ Built using Llama 3 (local), FAISS vector search, and Streamlit.
 ![Architecture Diagram](ai-generator and evaluator.png)
 
 # Features
-- 📄 Funding guideline parsing (PDF)
-- 🔎 RAG-based intelligent retrieval
-- 📝 Structured proposal generation
-- 💰 Budget & timeline estimation
-- 📊 Rubric-based scoring system
-- 🔁 Automated critique loop
-- 🌐 Streamlit UI interface
+-  Funding guideline parsing (PDF)
+-  RAG-based intelligent retrieval
+-  Structured proposal generation
+-  Budget & timeline estimation
+-  Rubric-based scoring system
+-  Automated critique loop
+-  Streamlit UI interface
 
-# Project Structure
+## Work Flow
 
+<p align="center">
+  <img src="assets/WorkFlow.png" width="800">
+</p>
 
 # Installation Guide
 ### 1. Clone repository
