@@ -5,7 +5,7 @@ RAG (Retrieval-Augmented Generation) and multi-agent architecture.
 
 Built using Llama 3 (local), FAISS vector search, and Streamlit.
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](ai-generator and evaluator.png)
 
 # Features
 - 📄 Funding guideline parsing (PDF)
